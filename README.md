@@ -1,5 +1,6 @@
 # RNA-Seq Feb 25, 2021 Workshop
 
+Hackmd link can be found here: https://hackmd.io/O8iR_G7OSmG226E9QlAsGA?view
 
 ## Table of Contents
 
